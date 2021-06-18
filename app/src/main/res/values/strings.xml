@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sample_ecom</string>
+    <string name="dummy_long_text">TUINANLE Sandals Women 2020 New Sexy Open-toed Sandals Wedge Outdoor Cool Platform Shoes Ladies Beach Summer Sandalia Feminina</string>
+
+    <string-array name="shipping_options">
+        <item>zDrop Premium Shipping    Cost: BDT. 4000</item>
+        <item>zDrop Premium Shipping    Cost: BDT. 4000</item>
+        <item>zDrop Premium Shipping    Cost: BDT. 4000</item>
+    </string-array>
+</resources>
